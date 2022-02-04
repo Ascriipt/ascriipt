@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ascriipt&show_icons=true&theme=chartreuse_dark&?count_private=true&include_all_commits=true" length="100" width="450"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascriipt&layout=compact&theme=chartreuse_dark" length="100" width="375">
+<img src="https://github-readme-stats.vercel.app/api?username=Ascriipt&show_icons=true&theme=chartreuse-dark&?count_private=true&include_all_commits=true" length="100" width="450"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascriipt&layout=compact&theme=chartreuse-dark" length="100" width="375">
 
  🕹️ Hobbies : <br>
  -  Video Games
