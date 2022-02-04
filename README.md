@@ -14,7 +14,7 @@
  ⚡ Fun Facts : <br>
   - I am not even close to being a good dev :( <br>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/maparigi?privacyEmail=true&privacyName=false)](https://github.com/Ascriipt)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/maparigi?privacyEmail=true&privacyName=true)](https://github.com/Ascriipt)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/maparigi?cursus=C%20Piscine&privacyEmail=false&privacyName=true)](https://github.com/Ascriipt)
 
