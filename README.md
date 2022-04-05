@@ -14,10 +14,9 @@
  ⚡ Fun Facts : <br>
   - I am not even close to being a good dev :( <br>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/maparigi?privacyEmail=true&privacyName=true)](https://github.com/Ascriipt)
+[![maparigi's 42 stats](https://badge42.vercel.app/api/v2/cl1ml1s39006009l4ts7a3w4g/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/maparigi?cursus=C%20Piscine&privacyEmail=false&privacyName=true)](https://github.com/Ascriipt)
-
+[![maparigi's 42 stats](https://badge42.vercel.app/api/v2/cl1ml1s39006009l4ts7a3w4g/stats?cursusId=9&coalitionId=108)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Ascriipt/ascriipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
