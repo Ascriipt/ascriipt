@@ -4,15 +4,18 @@
 
  🕹️ Hobbies : <br>
  -  Video Games
- -  Procrastination
+ -  Programming
  -  Travelling <br>
  
  🧠 I’m currently studying : <br>
   - C <br>
-  - Shell <br>	
+  - Shell <br>
+  - Python <br>
+  - JavaScript <br>
+  - Basically every language I can get my hands on <br>
 
  ⚡ Fun Facts : <br>
-  - I am not even close to being a good dev :( <br>
+  - I will also fix your wifi problems :) <br>
 
 [![maparigi's 42 stats](https://badge42.vercel.app/api/v2/cl1ml1s39006009l4ts7a3w4g/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
